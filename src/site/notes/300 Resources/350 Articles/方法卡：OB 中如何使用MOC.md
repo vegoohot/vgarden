@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 Resources/350 Articles/方法卡：OB 中如何使用MOC/","created":"2025-09-19T08:15:14.541+08:00","updated":"2025-09-18T22:56:33.053+08:00"}
+{"dg-publish":true,"permalink":"/300 Resources/350 Articles/方法卡：OB 中如何使用MOC/","created":"2022-10-03T10:08:39.012+08:00","updated":"2025-09-18T22:56:33.053+08:00"}
 ---
 
 ### 知识卡：在Obsidian中使用MOC (Map of Content)

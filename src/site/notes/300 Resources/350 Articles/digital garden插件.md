@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 Resources/350 Articles/digital garden插件/","created":"2025-09-18T08:29:47.976+08:00","updated":"2025-09-18T23:16:51.635+08:00"}
+{"dg-publish":true,"permalink":"/300 Resources/350 Articles/digital garden插件/","created":"2025-09-15T08:28:15.640+08:00","updated":"2025-09-18T23:16:51.635+08:00"}
 ---
 
 插件地址：
